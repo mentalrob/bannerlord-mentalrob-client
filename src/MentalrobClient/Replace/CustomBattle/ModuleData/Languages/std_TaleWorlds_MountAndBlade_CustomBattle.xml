@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="English" />
+  </tags>
+  <strings>
+    <string id="0s52GQJt" text="Scene Level" />
+    <string id="0xC75dN6" text="Enemy Party" />
+    <string id="35IHscBa" text="ENEMY" />
+    <string id="4gOGGbeQ" text="Custom Battle" />
+    <string id="4IuXGSdc" text="Wall Hitpoints" />
+    <string id="AiNXIt5N" text="Dual Breached" />
+    <string id="AmfIfeIc" text="Choose Attacker Siege Machines" />
+    <string id="BC7n6qxk" text="PLAYER" />
+    <string id="bKg8Mmwb" text="Player Type" />
+    <string id="bLXleed8" text="Player Character" />
+    <string id="CTtjSwRb" text="Noon" />
+    <string id="cZzfNlxd" text="Fall" />
+    <string id="dsMeB3vi" text="Solid" />
+    <string id="DszSWnc3" text="Time of Day" />
+    <string id="EcKMGoFv" text="Sallyout" />
+    <string id="eMbuGGus" text="Select troops to spawn in formation." />
+    <string id="f7vOVQb7" text="Summer" />
+    <string id="fAxjyMt5" text="Night" />
+    <string id="g9VIbA9s" text="Sergeant" />
+    <string id="gENb9SSW" text="Evening" />
+    <string id="iSQTtNUD" text="This faction doesn't have this troop type." />
+    <string id="J2gvnexb" text="Afternoon" />
+    <string id="JPimShCw" text="Game Type" />
+    <string id="KASD0tnO" text="Attacker" />
+    <string id="Kvxo2jzJ" text="Single Breached" />
+    <string id="MVOWsP48" text="Select a Melee Machine" />
+    <string id="nWbp3o3H" text="Spring" />
+    <string id="nwqUFaU8" text="Winter" />
+    <string id="P3rMg4uZ" text="Player Side" />
+    <string id="QAYngoNQ" text="Enemy Character" />
+    <string id="SLZzfNPr" text="Select a Ranged Machine" />
+    <string id="sSJSTe5p" text="Player Party" />
+    <string id="Ua6CNLBZ" text="Village" />
+    <string id="UoiSWe87" text="Choose Defender Siege Machines" />
+    <string id="w9m11T1y" text="Map" />
+    <string id="X3gcUz7C" text="Morning" />
+    <string id="XEVFUaFj" text="Defender" />
+    <string id="xTzDM5XE" text="Season" />
+  </strings>
+</base>

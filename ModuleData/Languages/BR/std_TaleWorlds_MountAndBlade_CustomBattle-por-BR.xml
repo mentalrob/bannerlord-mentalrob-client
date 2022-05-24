@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Português (BR)" />
+  </tags>
+  <strings>
+    <string id="0s52GQJt" text="Nível da Cena" />
+    <string id="0xC75dN6" text="Grupo Inimigo" />
+    <string id="35IHscBa" text="INIMIGO" />
+    <string id="4gOGGbeQ" text="Batalha Personalizada" />
+    <string id="4IuXGSdc" text="Pontos de Vida da Muralha" />
+    <string id="AiNXIt5N" text="Rompida Dupla" />
+    <string id="AmfIfeIc" text="Escolha Máquinas de Cerco do Atacante" />
+    <string id="BC7n6qxk" text="JOGADOR" />
+    <string id="bKg8Mmwb" text="Tipo de Jogador" />
+    <string id="bLXleed8" text="Personagem do Jogador" />
+    <string id="CTtjSwRb" text="Meio-dia" />
+    <string id="cZzfNlxd" text="Outono" />
+    <string id="dsMeB3vi" text="Sólido" />
+    <string id="DszSWnc3" text="Hora do Dia" />
+    <string id="EcKMGoFv" text="Partida" />
+    <string id="eMbuGGus" text="Selecione tropas para criar em formação." />
+    <string id="f7vOVQb7" text="Verão" />
+    <string id="fAxjyMt5" text="Noite" />
+    <string id="g9VIbA9s" text="Sargento" />
+    <string id="gENb9SSW" text="Noite" />
+    <string id="iSQTtNUD" text="Esta facção não tem este tipo de tropa." />
+    <string id="J2gvnexb" text="Tarde" />
+    <string id="JPimShCw" text="Tipo de Jogo" />
+    <string id="KASD0tnO" text="Atacante" />
+    <string id="Kvxo2jzJ" text="Rompida Simples" />
+    <string id="MVOWsP48" text="Selecione uma Máquina Corpo a Corpo" />
+    <string id="nWbp3o3H" text="Primavera" />
+    <string id="nwqUFaU8" text="Inverno" />
+    <string id="P3rMg4uZ" text="Lado do Jogador" />
+    <string id="QAYngoNQ" text="Personagem Inimigo" />
+    <string id="SLZzfNPr" text="Selecione uma Máquina de Longo Alcance" />
+    <string id="sSJSTe5p" text="Grupo do Jogador" />
+    <string id="Ua6CNLBZ" text="Vilarejo" />
+    <string id="UoiSWe87" text="Escolha Máquinas de Cerco do Defensor" />
+    <string id="w9m11T1y" text="Mapa" />
+    <string id="X3gcUz7C" text="Manhã" />
+    <string id="XEVFUaFj" text="Defensor" />
+    <string id="xTzDM5XE" text="Estação" />
+  </strings>
+</base>

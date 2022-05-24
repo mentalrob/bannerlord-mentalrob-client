@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="한국어" />
+  </tags>
+  <strings>
+    <string id="0BPeUfA9" text="던글라니스" />
+    <string id="0gGlpoDG" text="아인 발리크" />
+    <string id="0gkY50ld" text="알리시온" />
+    <string id="1hIKR8Sa" text="오크스 홀" />
+    <string id="2hIl3Pld" text="카르 반세스" />
+    <string id="324mqAvm" text="아르고론" />
+    <string id="3cBdEWg4" text="하쿤 성" />
+    <string id="3hffTbxP" text="그나트 날" />
+    <string id="3kni3h4a" text="디오팔리스" />
+    <string id="3ujFSm58" text="테페스" />
+    <string id="3Uvpavg7" text="블라디브" />
+    <string id="68hY2ikn" text="시비르" />
+    <string id="6eH3F48v" text="에스메" />
+    <string id="73f3hn4j" text="시미라 성" />
+    <string id="7b44joze" text="할리스부스트" />
+    <string id="7P8SuEYM" text="글렌리트리그" />
+    <string id="7RZaNy5N" text="호콰" />
+    <string id="7vn2VRP0" text="마레이벤" />
+    <string id="8txiTiHl" text="프레기안" />
+    <string id="990Fhxcw" text="펜 카노크" />
+    <string id="9on9e5m7" text="트락토레 성" />
+    <string id="9v0dObmN" text="타쉐바" />
+    <string id="AC37qQMF" text="혼가드" />
+    <string id="AD2SK3nm" text="우세크" />
+    <string id="aIPzzKgq" text="토리오스" />
+    <string id="aRPxOOCW" text="콰시라" />
+    <string id="ArtPdp9q" text="암프렐라" />
+    <string id="AtIlQijG" text="트락토레" />
+    <string id="b33aHvbC" text="자쿨란" />
+    <string id="bGvPtKc3" text="제스테아" />
+    <string id="bQVkbPpU" text="제라코스" />
+    <string id="bskXLff6" text="디아타마" />
+    <string id="BWii0r6E" text="시로니아" />
+    <string id="c8A1uisA" text="베레크산드 성" />
+    <string id="CD2aFnTf" text="아에오리아" />
+    <string id="cNiWekai" text="로차나" />
+    <string id="czzagO4q" text="얀구툼" />
+    <string id="dah9IZxv" text="로도바스" />
+    <string id="dAqn04iR" text="아발리프스" />
+    <string id="dBlbWtZR" text="비르 세이프" />
+    <string id="diY4gxkG" text="베레크산드" />
+    <string id="eEqUBFb3" text="에피크로테아" />
+    <string id="eeSLHoF6" text="리아노크 헨 성" />
+    <string id="EF64kAD9" text="페논 티른" />
+    <string id="F4SBmZ83" text="에티르푸르드" />
+    <string id="FhgEIFWb" text="마케브" />
+    <string id="fmjfc45Z" text="드라판드" />
+    <string id="FQ0sIVLT" text="프리메소스" />
+    <string id="Fy68tN4M" text="아스마이트" />
+    <string id="FY9WBGWk" text="마즈하단" />
+    <string id="gKHzk2U0" text="아스 카팔" />
+    <string id="glewzQmU" text="모레니아" />
+    <string id="GZYmOqZK" text="우리크스칼라" />
+    <string id="HcX4VAOW" text="포프시아" />
+    <string id="HfHfODCq" text="에피노사" />
+    <string id="hndY2L5P" text="와다르" />
+    <string id="HSanKfUO" text="가오스" />
+    <string id="I7QRokP0" text="크리오스" />
+    <string id="ihlDZZ9a" text="베알로스" />
+    <string id="IPbMskbi" text="우스토콜 성" />
+    <string id="IvJd7Nbr" text="보그 베스" />
+    <string id="IyuoDcuP" text="렘토일" />
+    <string id="J5ofaQnM" text="카라한" />
+    <string id="JGEWHtGL" text="아살리그" />
+    <string id="jHEGCQ8y" text="차라스" />
+    <string id="JNz2l5Xt" text="헤르토게아" />
+    <string id="jpqT9axa" text="시라토스" />
+    <string id="JwMfPrlm" text="로발트" />
+    <string id="Jwo98TB7" text="포린" />
+    <string id="jZyyJMqF" text="모트" />
+    <string id="K2NeKiuO" text="오르티시아" />
+    <string id="K5RYhaN1" text="멜리온" />
+    <string id="ka2XFasQ" text="부키투스" />
+    <string id="KfHLVdry" text="이야키스" />
+    <string id="KirQzyQV" text="칼레우스 성" />
+    <string id="Ku2aoyjk" text="브린 글라스" />
+    <string id="Lac7Lb0P" text="우크바" />
+    <string id="lfGlDXu2" text="골레린" />
+    <string id="Luj9oWEl" text="라제타" />
+    <string id="mJV8DyC1" text="노그렌트" />
+    <string id="NlrfibI9" text="레멘탈" />
+    <string id="nx8dPxlY" text="차이칸드" />
+    <string id="OLrhkKUo" text="아인 발리크 성" />
+    <string id="OSv0n6Eq" text="레소스" />
+    <string id="ov9jrNqP" text="오르만파르드" />
+    <string id="oxSVeo6J" text="세오논" />
+    <string id="P6TPNvWz" text="갈렌드" />
+    <string id="p7X1aLIP" text="사만사" />
+    <string id="PF1ohppa" text="마즈하단 성" />
+    <string id="PMf8vgt1" text="아스카르" />
+    <string id="PnfGEvfu" text="칸테리온" />
+    <string id="PYggrg9m" text="팔리손트" />
+    <string id="q0JVAZjz" text="로테" />
+    <string id="Q1FSLwaw" text="바르고르니스" />
+    <string id="qaoM6HL6" text="티알" />
+    <string id="QRioHPAs" text="베르굼" />
+    <string id="Qtskr0Fg" text="샤페쉬테" />
+    <string id="QuLrXJoP" text="조구리스 성" />
+    <string id="qumw7GQb" text="디나르" />
+    <string id="r2cvi5pi" text="혼가드 성" />
+    <string id="RdMsvNec" text="토르 멜리나" />
+    <string id="RgO750Ca" text="우상크 성" />
+    <string id="RQ37o2Yu" text="발타크한드" />
+    <string id="rtiVr8Nm" text="세스타다임 성" />
+    <string id="SdKNB1JO" text="사르고트" />
+    <string id="SDoABuDm" text="아브 코메르 성" />
+    <string id="Sk1x6LZK" text="바리할 성" />
+    <string id="Sm9T9Qwi" text="마이제아" />
+    <string id="snbaIFOU" text="베론 성" />
+    <string id="SxGXPdms" text="테베아" />
+    <string id="SZ3fWeNn" text="가마르단" />
+    <string id="t3t5XL2b" text="코르노바스" />
+    <string id="TapuitFC" text="오니라" />
+    <string id="TGPsNCI5" text="바르노바폴" />
+    <string id="tLLrL2po" text="크볼" />
+    <string id="tPS2xGZN" text="쿠룰루크" />
+    <string id="TWmYlcCZ" text="쿠야즈" />
+    <string id="txX7q3OL" text="탈리벨 성" />
+    <string id="uADa8Bmy" text="리카론" />
+    <string id="UBbTKSsa" text="제오니카" />
+    <string id="UcwyFba8" text="키라즈" />
+    <string id="v8anZHEq" text="에르제누르" />
+    <string id="VA7hpaye" text="모솜" />
+    <string id="vK8aRweu" text="자마예 성" />
+    <string id="vXqCDtR6" text="바테아" />
+    <string id="VZJF1eXu" text="타코르 성" />
+    <string id="w7ImuzEs" text="프라벤드" />
+    <string id="wj01G6Mw" text="베신" />
+    <string id="wwITudGq" text="아갈몬" />
+    <string id="WxSfaOM1" text="메데니 성" />
+    <string id="x4tYsDgI" text="누트유크" />
+    <string id="xdYXz0PY" text="조구리스" />
+    <string id="XI0Tct5W" text="티스밀" />
+    <string id="y0QUAVsw" text="게르세고스" />
+    <string id="y4pFeCFr" text="모리히그" />
+    <string id="YbKvMKr3" text="레블레니온" />
+    <string id="YeWZBSx8" text="잘마리스" />
+    <string id="YgQ7rtND" text="데이르 하와" />
+    <string id="ylK7UJp9" text="카르페니온" />
+    <string id="zRbhAwyr" text="보스트룸" />
+    <string id="zuYafrkj" text="비시브로트" />
+  </strings>
+</base>

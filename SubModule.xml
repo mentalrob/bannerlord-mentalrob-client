@@ -1,0 +1,86 @@
+<Module>
+    <Name value="Mentalrob Client" />
+    <Id value="MentalrobClient" />
+    <Version value="v1.0.0" />
+    <SingleplayerModule value="true" />
+    <MultiplayerModule value="false" />
+    <DependedModules>
+        <DependedModule Id="Native" DependentVersion="e1.7.1" Optional="false" />
+        <DependedModule Id="SandBoxCore" DependentVersion="e1.7.1" Optional="false" />
+        <DependedModule Id="CustomBattle" DependentVersion="e1.7.1" Optional="false" />
+    </DependedModules>
+    <SubModules>
+        <!-- The following SubModule element is optional. You can remove this portion if your mod does not have a DLL associated with it. -->
+        <SubModule>
+            <Name value="MentalrobClient" />
+            <!-- Path to the DLL File, if your Mod is called MyModule then it should be   -->
+            <DLLName value="MentalrobClient.dll" />
+            <SubModuleClassType value="MentalrobClient.Main" />
+            <Tags>
+                <Tag key="DedicatedServerType" value="none" />
+            </Tags>
+        </SubModule>
+    </SubModules>
+    <Xmls>
+        <XmlNode>
+            <XmlName id="Scene" path="custom_battle_scenes" />
+            <IncludedGameTypes>
+                <GameType value="MentalrobGame" />
+            </IncludedGameTypes>
+        </XmlNode>
+        <XmlNode>
+            <XmlName id="CraftingPieces" path="../../Native/ModuleData/crafting_pieces" />
+            <IncludedGameTypes>
+                <GameType value="MentalrobGame" />
+            </IncludedGameTypes>
+        </XmlNode>
+        <XmlNode>
+            <XmlName id="Items" path="items" />
+            <IncludedGameTypes>
+                <GameType value="MentalrobGame" />
+            </IncludedGameTypes>
+        </XmlNode>
+        <XmlNode>
+            <XmlName id="SPCultures" path="../../SandBoxCore/ModuleData/spcultures" />
+            <IncludedGameTypes>
+                <GameType value="MentalrobGame" />
+            </IncludedGameTypes>
+        </XmlNode>
+        <XmlNode>
+            <XmlName id="BodyProperties" path="../../SandBoxCore/ModuleData/sandboxcore_bodyproperties" />
+            <IncludedGameTypes>
+                <GameType value="MentalrobGame" />
+            </IncludedGameTypes>
+        </XmlNode>
+        <XmlNode>
+            <XmlName id="EquipmentRosters" path="../../SandBoxCore/ModuleData/sandboxcore_equipment_sets" />
+            <IncludedGameTypes>
+                <GameType value="MentalrobGame" />
+            </IncludedGameTypes>
+        </XmlNode>
+        <XmlNode>
+            <XmlName id="SkillSets" path="../../SandBoxCore/ModuleData/sandboxcore_skill_sets" />
+            <IncludedGameTypes>
+                <GameType value="MentalrobGame" />
+            </IncludedGameTypes>
+        </XmlNode>
+        <XmlNode>
+            <XmlName id="NPCCharacters" path="../../SandBoxCore/ModuleData/spnpccharacters" />
+            <IncludedGameTypes>
+                <GameType value="MentalrobGame" />
+            </IncludedGameTypes>
+        </XmlNode>
+        <XmlNode>
+            <XmlName id="NPCCharacters" path="../../SandBoxCore/ModuleData/obsolete_characters" />
+            <IncludedGameTypes>
+                <GameType value="MentalrobGame" />
+            </IncludedGameTypes>
+        </XmlNode>
+        <XmlNode>
+            <XmlName id="NPCCharacters" path="../../CustomBattle/ModuleData/custombattlecharacters" />
+            <IncludedGameTypes>
+                <GameType value="MentalrobGame" />
+            </IncludedGameTypes>
+        </XmlNode>
+    </Xmls>
+</Module>

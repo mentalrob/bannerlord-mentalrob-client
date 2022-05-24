@@ -1,0 +1,8 @@
+D:\SteamLibrary\steamapps\common\Mount & Blade II Bannerlord\Modules\MentalrobClient\src\MentalrobClient\MentalrobClient\obj\Debug\MentalrobClient.csprojAssemblyReference.cache
+D:\SteamLibrary\steamapps\common\Mount & Blade II Bannerlord\Modules\MentalrobClient\src\MentalrobClient\MentalrobClient\obj\Debug\MentalrobClient.csproj.CoreCompileInputs.cache
+D:\SteamLibrary\steamapps\common\Mount & Blade II Bannerlord\Modules\MentalrobClient\bin\Win64_Shipping_Client\MentalrobClient.dll.config
+D:\SteamLibrary\steamapps\common\Mount & Blade II Bannerlord\Modules\MentalrobClient\bin\Win64_Shipping_Client\MentalrobClient.dll
+D:\SteamLibrary\steamapps\common\Mount & Blade II Bannerlord\Modules\MentalrobClient\bin\Win64_Shipping_Client\MentalrobClient.pdb
+D:\SteamLibrary\steamapps\common\Mount & Blade II Bannerlord\Modules\MentalrobClient\src\MentalrobClient\MentalrobClient\obj\Debug\MentalrobClient.csproj.CopyComplete
+D:\SteamLibrary\steamapps\common\Mount & Blade II Bannerlord\Modules\MentalrobClient\src\MentalrobClient\MentalrobClient\obj\Debug\MentalrobClient.dll
+D:\SteamLibrary\steamapps\common\Mount & Blade II Bannerlord\Modules\MentalrobClient\src\MentalrobClient\MentalrobClient\obj\Debug\MentalrobClient.pdb

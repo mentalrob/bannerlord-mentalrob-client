@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="English" />
+  </tags>
+  <strings>
+    <string id="4MwHbMFs" text="Carfyd" />
+    <string id="aSNUtnbH" text="Temun" />
+    <string id="CpLuMow4" text="Gastond" />
+    <string id="ekcBrNN1" text="Eren" />
+    <string id="iOYRpw24" text="Ratagost" />
+    <string id="ItBdNiSb" text="Nylios" />
+    <string id="NzbJtdPe" text="Arentor" />
+    <string id="O75XlydW" text="Arcor" />
+    <string id="Pya9aCTd" text="Elthild" />
+    <string id="Toj0vayQ" text="Monchug" />
+    <string id="UTm3ZfIw" text="Belarn" />
+    <string id="WTCIOhvV" text="Nuqar" />
+  </strings>
+</base>

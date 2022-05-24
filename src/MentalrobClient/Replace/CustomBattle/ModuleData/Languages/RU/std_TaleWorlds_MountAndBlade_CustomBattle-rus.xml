@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Русский" />
+  </tags>
+  <strings>
+    <string id="0s52GQJt" text="Уровень локации" />
+    <string id="0xC75dN6" text="Отряд противника" />
+    <string id="35IHscBa" text="ПРОТИВНИК" />
+    <string id="4gOGGbeQ" text="Пользовательская битва" />
+    <string id="4IuXGSdc" text="Очки прочности стены" />
+    <string id="AiNXIt5N" text="Брешь в двух местах" />
+    <string id="AmfIfeIc" text="Выбор осадных орудий атакующих" />
+    <string id="BC7n6qxk" text="ИГРОК" />
+    <string id="bKg8Mmwb" text="Тип игрока" />
+    <string id="bLXleed8" text="Персонаж игрока" />
+    <string id="CTtjSwRb" text="Полдень" />
+    <string id="cZzfNlxd" text="Осень" />
+    <string id="dsMeB3vi" text="Без повреждений" />
+    <string id="DszSWnc3" text="Время суток" />
+    <string id="EcKMGoFv" text="Вылазка" />
+    <string id="eMbuGGus" text="Выберите воинов для подразделения." />
+    <string id="f7vOVQb7" text="Лето" />
+    <string id="fAxjyMt5" text="Ночь" />
+    <string id="g9VIbA9s" text="Сержант" />
+    <string id="gENb9SSW" text="Вечер" />
+    <string id="iSQTtNUD" text="У этой фракции нет воинов данного типа." />
+    <string id="J2gvnexb" text="День" />
+    <string id="JPimShCw" text="Игровой режим" />
+    <string id="KASD0tnO" text="Атакующий" />
+    <string id="Kvxo2jzJ" text="Брешь" />
+    <string id="MVOWsP48" text="Выберите орудие ближнего боя" />
+    <string id="nWbp3o3H" text="Весна" />
+    <string id="nwqUFaU8" text="Зима" />
+    <string id="P3rMg4uZ" text="Сторона игрока" />
+    <string id="QAYngoNQ" text="Персонаж противника" />
+    <string id="SLZzfNPr" text="Выберите орудие дальнего боя" />
+    <string id="sSJSTe5p" text="Отряд игрока" />
+    <string id="Ua6CNLBZ" text="Деревня" />
+    <string id="UoiSWe87" text="Выбор осадных орудий защитников" />
+    <string id="w9m11T1y" text="Карта" />
+    <string id="X3gcUz7C" text="Утро" />
+    <string id="XEVFUaFj" text="Обороняющийся" />
+    <string id="xTzDM5XE" text="Время года" />
+  </strings>
+</base>

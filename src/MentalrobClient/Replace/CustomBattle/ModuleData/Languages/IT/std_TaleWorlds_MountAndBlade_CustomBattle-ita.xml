@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Italiano" />
+  </tags>
+  <strings>
+    <string id="0s52GQJt" text="Livello scenario" />
+    <string id="0xC75dN6" text="Gruppo avversario" />
+    <string id="35IHscBa" text="NEMICO" />
+    <string id="4gOGGbeQ" text="Battaglia personalizzata" />
+    <string id="4IuXGSdc" text="Resistenza muro" />
+    <string id="AiNXIt5N" text="Doppia breccia aperta" />
+    <string id="AmfIfeIc" text="Scegli macchine d&apos;assedio attaccante" />
+    <string id="BC7n6qxk" text="GIOCATORE" />
+    <string id="bKg8Mmwb" text="Tipo di giocatore" />
+    <string id="bLXleed8" text="Personaggio giocatore" />
+    <string id="CTtjSwRb" text="Mezzogiorno" />
+    <string id="cZzfNlxd" text="Autunno" />
+    <string id="dsMeB3vi" text="Robuste" />
+    <string id="DszSWnc3" text="Ora della giornata" />
+    <string id="EcKMGoFv" text="Fuga" />
+    <string id="eMbuGGus" text="Seleziona le truppe da inviare in formazione." />
+    <string id="f7vOVQb7" text="Estate" />
+    <string id="fAxjyMt5" text="Notte" />
+    <string id="g9VIbA9s" text="Sergente" />
+    <string id="gENb9SSW" text="Sera" />
+    <string id="iSQTtNUD" text="Questa fazione non ha questo tipo di truppe." />
+    <string id="J2gvnexb" text="Pomeriggio" />
+    <string id="JPimShCw" text="Modalità di gioco" />
+    <string id="KASD0tnO" text="Attaccante" />
+    <string id="Kvxo2jzJ" text="Singola breccia aperta" />
+    <string id="MVOWsP48" text="Seleziona una macchina per il corpo a corpo" />
+    <string id="nWbp3o3H" text="Primavera" />
+    <string id="nwqUFaU8" text="Inverno" />
+    <string id="P3rMg4uZ" text="Compagine del giocatore" />
+    <string id="QAYngoNQ" text="Personaggio nemico" />
+    <string id="SLZzfNPr" text="Seleziona una macchina a distanza" />
+    <string id="sSJSTe5p" text="Gruppo alleato" />
+    <string id="Ua6CNLBZ" text="Villaggio" />
+    <string id="UoiSWe87" text="Scegli macchine d&apos;assedio difensore" />
+    <string id="w9m11T1y" text="Mappa" />
+    <string id="X3gcUz7C" text="Mattino" />
+    <string id="XEVFUaFj" text="Difensore" />
+    <string id="xTzDM5XE" text="Stagione" />
+  </strings>
+</base>

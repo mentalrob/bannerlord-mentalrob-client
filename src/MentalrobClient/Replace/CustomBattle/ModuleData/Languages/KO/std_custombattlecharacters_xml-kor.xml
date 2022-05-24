@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="한국어" />
+  </tags>
+  <strings>
+    <string id="4MwHbMFs" text="카르피드" />
+    <string id="aSNUtnbH" text="테문" />
+    <string id="CpLuMow4" text="개스턴드" />
+    <string id="ekcBrNN1" text="에렌" />
+    <string id="iOYRpw24" text="라타고스트" />
+    <string id="ItBdNiSb" text="나일리오스" />
+    <string id="NzbJtdPe" text="아렌터" />
+    <string id="O75XlydW" text="아코르" />
+    <string id="Pya9aCTd" text="엘틸리드" />
+    <string id="Toj0vayQ" text="몽추그" />
+    <string id="UTm3ZfIw" text="벨라른" />
+    <string id="WTCIOhvV" text="누카르" />
+  </strings>
+</base>

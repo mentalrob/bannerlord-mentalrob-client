@@ -1,0 +1,314 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NPCCharacters>
+  <NPCCharacter id="commander_1" name="{=O75XlydW}Arcor" default_group="cavalry" age="50" voice="curt" culture="Culture.empire" occupation="Lord" skill_template="SkillSet.custombattle_commander_1_template_skills" is_hero="true">
+    <face>
+      <!--face_key value="00005b71400033428944379867387744234d77960961467cda55555a80e8c059000d869df6ca8d5500001105000030a30000001f0000000000000000019c5000" /-->
+      <BodyProperties version="4" age="29.86" weight="0.2904" build="0.2993" key="00005801400033428944379867347744234D77960961467CDA55555A80E8C0590004469304CA8D5500001105000030A30000001F000000000000000000F45000" />
+    </face>
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="5" />
+      <Trait id="Commander" value="7" />
+      <Trait id="Politician" value="5" />
+      <Trait id="Manager" value="6" />
+      <Trait id="Honor" value="+1" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Generosity" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Item0" id="Item.empire_sword_4_t4" />
+        <equipment slot="Item1" id="Item.heavy_horsemans_kite_shield" />
+        <equipment slot="Item2" id="Item.western_javelin_1_t2" />
+        <equipment slot="Item3" id="Item.western_javelin_1_t2" />
+        <equipment slot="Head" id="Item.empire_jewelled_helmet" />
+        <equipment slot="Body" id="Item.imperial_lamellar_over_leather" />
+        <equipment slot="Cape" id="Item.studded_imperial_neckguard" />
+        <equipment slot="Gloves" id="Item.decorated_imperial_gauntlets" />
+        <equipment slot="Leg" id="Item.decorated_imperial_boots" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="commander_2" name="{=Pya9aCTd}Sule" age="31" voice="earnest" default_group="infantry" is_female="true" culture="Culture.vlandia" occupation="Lord" skill_template="SkillSet.custombattle_commander_2_template_skills" is_hero="true">
+    <face>
+      <!--face_key value="0011ed5b50bc300a20668635577a3595a1777484498a96249ae82fb67baaaff7000436550430b285000000000000000000000000000000000000000000841040" /-->
+      <BodyProperties version="4" age="39.85" weight="0.3259" build="0.3659" key="0011EC0B50BC300A2066863557753595A1777484498A96249AE82FB67BAAAFF7000556550530B285000000000000000000000000000000000000000000F41040" />
+    </face>
+    <Traits>
+      <Trait id="Politician" value="7" />
+      <Trait id="Manager" value="4" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Generosity" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Item0" id="Item.imperial_axe_t3" />
+        <equipment slot="Item1" id="Item.western_javelin_1_t2" />
+        <equipment slot="Item2" id="Item.composite_steppe_bow" />
+        <equipment slot="Item3" id="Item.bodkin_arrows_a" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="commander_3" name="{=aSNUtnbH}Temun" age="27" voice="curt" default_group="HorseArcher" culture="Culture.khuzait" occupation="Lord" skill_template="SkillSet.custombattle_commander_3_template_skills" is_hero="true">
+    <face>
+      <!--face_key value="0000acd0003c15cda881047e4580f6766888a8789866676a7158ac894a862ba8000a0193faf2266c0000037f0000000f00000037049140010000000000f86140" /-->
+      <BodyProperties version="4" age="19.32" weight="0.1083" build="0.1705" key="0000AC00003C15CDA881047E4582F6766888A8789866676A7158AC894A862BA80003219203F2266C0000037F0000000F00000037049140010000000000F06140" />
+    </face>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Item0" id="Item.composite_steppe_bow" />
+        <equipment slot="Item1" id="Item.bodkin_arrows_a" />
+        <equipment slot="Item2" id="Item.bodkin_arrows_a" />
+        <equipment slot="Item3" id="Item.simple_sabre_sword_t2" />
+        <equipment slot="Head" id="Item.spiked_helmet_with_facemask" />
+        <equipment slot="Body" id="Item.eastern_lamellar_armor" />
+        <equipment slot="Cape" id="Item.lamellar_shoulders" />
+        <equipment slot="Gloves" id="Item.eastern_plated_leather_vambraces" />
+        <equipment slot="Leg" id="Item.khuzait_curved_boots" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="commander_4" name="{=4MwHbMFs}Carfyd" age="38" voice="curt" default_group="ranged" culture="Culture.battania" occupation="Lord" skill_template="SkillSet.custombattle_commander_4_template_skills" is_hero="true">
+    <face>
+      <!--face_key value="0011955e400013cd938b486968868499e58667664a89882255291dca63ab4839000956550915c9a5000000000000000000000000000000000000000001845100" /-->
+      <BodyProperties version="4" age="46.51" weight="0.3969" build="0.4591" key="0011940E400013CD938B486968868499E58667664A89882255291DCA63AB4839000766550715C9A5000000000000000000000000000000000000000000F45100" />
+    </face>
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="6" />
+      <Trait id="Commander" value="7" />
+      <Trait id="Politician" value="3" />
+      <Trait id="Manager" value="4" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Generosity" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Item2" id="Item.highland_ranger_bow" />
+        <equipment slot="Item0" id="Item.range_arrows" />
+        <equipment slot="Item1" id="Item.range_arrows" />
+        <equipment slot="Item3" id="Item.battania_axe_1_t2" />
+        <equipment slot="Head" id="Item.battanian_crowned_helmet" />
+        <equipment slot="Body" id="Item.battania_warlord_armor" />
+        <equipment slot="Cape" id="Item.battania_warlord_pauldrons" />
+        <equipment slot="Gloves" id="Item.battania_warlord_bracers" />
+        <equipment slot="Leg" id="Item.battania_warlord_boots" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="commander_5" name="{=iOYRpw24}Ratagost" age="49" voice="softspoken" default_group="cavalry" culture="Culture.sturgia" occupation="Lord" skill_template="SkillSet.custombattle_commander_5_template_skills" is_hero="true">
+    <face>
+      <!--face_key value="00167a5e400032c41fb00fb90576688923ac65ac9584a3eae1f9a9f48787a88800070539f7f0770e000000000000000000000000000000000000000000f85000" /-->
+      <BodyProperties version="4" age="43.18" weight="0.3037" build="0.3437" key="0016780E400032C41FB00FB90575688923AC65AC9584A3EAE1F9A9F48787A8880005553505F0770E000000000000000000000000000000000000000000F05000" />
+    </face>
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="3" />
+      <Trait id="Commander" value="5" />
+      <Trait id="Politician" value="4" />
+      <Trait id="Manager" value="7" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Item0" id="Item.eastern_spear_4_t4" />
+        <equipment slot="Item1" id="Item.northern_round_shield" />
+        <equipment slot="Item3" id="Item.small_spurred_axe_t2" />
+        <equipment slot="Head" id="Item.sturgian_lord_helmet_a" />
+        <equipment slot="Body" id="Item.nordic_hauberk" />
+        <equipment slot="Gloves" id="Item.northern_plated_gloves" />
+        <equipment slot="Leg" id="Item.northern_plated_boots" />
+        <equipment slot="Horse" id="Item.sturgia_horse" />
+        <equipment slot="HorseHarness" id="Item.northern_ring_barding" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="commander_6" default_group="cavalry" is_female="false" culture="Culture.aserai" name="{=ekcBrNN1}Eren" banner_symbol_mesh_name="test_symbol_a" banner_symbol_color="FF000000" skill_template="SkillSet.custombattle_commander_6_template_skills" is_hero="true">
+    <face>
+      <!--face_key value="0005d55a003c368e37833791101078a5537d773564aac762876c2a2775d7512e000408b504523996000000000000000000000000000000000000000000703040" /-->
+      <BodyProperties version="4" age="72.6" weight="0.357" build="0.3525" key="0005D40A003C368E37833791101578A5537D773564AAC762876C2A2775D7512E000558B905523996000000000000000000000000000000000000000000F03040" />
+    </face>
+    <Traits>
+      <Trait id="Commander" value="5" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Item0" id="Item.aserai_lance_1_t5" />
+        <equipment slot="Item1" id="Item.desert_round_shield" />
+        <equipment slot="Item2" id="Item.aserai_sword_3_t3" />
+        <equipment slot="Leg" id="Item.strapped_mail_chausses" />
+        <equipment slot="Gloves" id="Item.guarded_padded_vambrace" />
+        <equipment slot="Body" id="Item.aserai_archer_armor" />
+        <equipment slot="Head" id="Item.southern_lord_helmet" />
+        <equipment slot="Horse" id="Item.war_camel" />
+        <equipment slot="HorseHarness" id="Item.camel_saddle" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0" id="Item.narrow_sword_t3" />
+        <equipment slot="Body" id="Item.leather_lamellar_armor" />
+        <equipment slot="Leg" id="Item.highland_leg_wrappings" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="commander_7" name="{=Toj0vayQ}Monchug" age="48" voice="curt" default_group="cavalry" culture="Culture.khuzait" occupation="Lord" skill_template="SkillSet.custombattle_commander_7_template_skills" is_hero="true">
+    <face>
+      <!--face_key value="0016ff8fc000274d9ebf61ffb76ea46ea4959af6f9a58e3dc8756149d64b84a8000ee65d09b1e944000000000000000000000000000000000000000000a07080" /-->
+      <BodyProperties version="4" age="46.51" weight="0.2149" build="0.2593" key="0016FC0FC000274D9EBF61FFB763A46EA4959AF6F9A58E3DC8756149D64B84A80004365504B1E944000000000000000000000000000000000000000000F07080" />
+    </face>
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="7" />
+      <Trait id="Commander" value="7" />
+      <Trait id="Politician" value="9" />
+      <Trait id="Manager" value="6" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Generosity" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Item0" id="Item.broad_ild_sword_t3" />
+        <equipment slot="Item1" id="Item.steppe_guardian_shield" />
+        <equipment slot="Item2" id="Item.khuzait_lance_1_t3" />
+        <equipment slot="Head" id="Item.khuzait_noble_helmet_with_feathers" />
+        <equipment slot="Body" id="Item.eastern_lamellar_armor" />
+        <equipment slot="Leg" id="Item.eastern_leather_boots" />
+        <equipment slot="Gloves" id="Item.guarded_padded_vambrace" />
+        <equipment slot="Cape" id="Item.lamellar_shoulders" />
+      </EquipmentRoster>
+      <equipment slot="Horse" id="Item.t2_khuzait_horse" />
+      <equipment slot="HorseHarness" id="Item.studded_steppe_barding" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="commander_8" name="{=CpLuMow4}Gastond" age="22" voice="curt" default_group="infantry" culture="Culture.vlandia" occupation="Lord" skill_template="SkillSet.custombattle_commander_8_template_skills" is_hero="true">
+    <face>
+      <BodyProperties version="4" weight="0.7886" age="22" build="0.5725" key="000BAC088000368E94800B923B3A288737AC765AF2D7A91197858F34731640730199C013097777C600000000000000000000000000000000000000005D204000" />
+    </face>
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="4" />
+      <Trait id="Commander" value="6" />
+      <Trait id="Politician" value="6" />
+      <Trait id="Manager" value="2" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Generosity" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Item0" id="Item.fine_pike_t4" />
+        <equipment slot="Item1" id="Item.vlandia_sword_4_t4" />
+        <equipment slot="Body" id="Item.vlandia_chainmail" />
+        <equipment slot="Leg" id="Item.plated_strip_boots" />
+        <equipment slot="Head" id="Item.peaked_helmet_over_mail" />
+        <equipment slot="Gloves" id="Item.mail_mitten" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="commander_9" name="{=WTCIOhvV}Nuqar" age="22" voice="curt" default_group="infantry" culture="Culture.aserai" occupation="Lord" skill_template="SkillSet.custombattle_commander_9_template_skills" is_hero="true">
+    <face>
+      <BodyProperties version="4" age="22" weight="0.5519" build="0.7167" key="0022F80880002794C782350B3B71AFB7098A8017A2755525A9B9AD468B0C5D68055B80570564A704000000000000000000000000000000000000000060A87042" />
+    </face>
+    <Traits>
+      <Trait id="CavalryFightingSkills" value="8" />
+      <Trait id="Commander" value="6" />
+      <Trait id="Politician" value="3" />
+      <Trait id="Manager" value="4" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Item0" id="Item.aserai_noble_sword_1_t5" />
+        <equipment slot="Item1" id="Item.emirs_oval_shield" />
+        <equipment slot="Item2" id="Item.eastern_javelin_3_t4" />
+        <equipment slot="Item3" id="Item.eastern_javelin_3_t4" />
+        <equipment slot="Head" id="Item.closed_desert_helmet" />
+        <equipment slot="Body" id="Item.stitched_leather_over_mail" />
+        <equipment slot="Leg" id="Item.khuzait_curved_boots" />
+        <equipment slot="Cape" id="Item.leopard_pelt" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="commander_10" name="{=UTm3ZfIw}Belarn" age="46" voice="earnest" default_group="infantry" culture="Culture.battania" occupation="Lord" skill_template="SkillSet.custombattle_commander_10_template_skills" is_hero="true">
+    <face>
+      <!--face_key value="0011ed5b50bc300a20668635577a3595a1777484498a96249ae82fb67baaaff7000436550430b285000000000000000000000000000000000000000000841040" /-->
+      <BodyProperties version="4" age="46" weight="0.3595" build="0.3633" key="000B9805801420068771233587A43345B881874967868927DC887C58756876480485564608148946000000000000000000000000000000000000000047041081" />
+    </face>
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="7" />
+      <Trait id="Commander" value="5" />
+      <Trait id="Politician" value="4" />
+      <Trait id="Manager" value="5" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Item0" id="Item.highland_spear_4_t4" />
+        <equipment slot="Item1" id="Item.battania_large_shield_b" />
+        <equipment slot="Item2" id="Item.battania_sword_4_t4" />
+        <equipment slot="Head" id="Item.battanian_plated_noble_helmet" />
+        <equipment slot="Cape" id="Item.armored_bearskin" />
+        <equipment slot="Body" id="Item.battania_noble_armor" />
+        <equipment slot="Leg" id="Item.battania_fur_boots" />
+        <equipment slot="Gloves" id="Item.battania_noble_bracers" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="commander_11" name="{=ItBdNiSb}Nylios" age="32" voice="earnest" default_group="cavalry" is_female="true" culture="Culture.empire" occupation="Lord" skill_template="SkillSet.custombattle_commander_11_template_skills" is_hero="true">
+    <face>
+      <!--face_key value="0011ed5b50bc300a20668635577a3595a1777484498a96249ae82fb67baaaff7000436550430b285000000000000000000000000000000000000000000841040" /-->
+      <BodyProperties version="4" age="32" weight="0.5" build="0.5" key="0022B80FC0FC2006AE7DC369B563C54A42B3684D77C7BA75C49A9BB885188A340147761404B766550000000000000000000000000000000000000000547C0083" />
+    </face>
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="7" />
+      <Trait id="Commander" value="8" />
+      <Trait id="Politician" value="4" />
+      <Trait id="Manager" value="5" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Item0" id="Item.empire_polearm_1_t4" />
+        <equipment slot="Item1" id="Item.reinforced_kite_shield" />
+        <equipment slot="Item2" id="Item.empire_noble_sword_1_t5" />
+        <equipment slot="Head" id="Item.empire_jewelled_helmet" />
+        <equipment slot="Body" id="Item.imperial_lamellar" />
+        <equipment slot="Leg" id="Item.lamellar_plate_boots" />
+        <equipment slot="Gloves" id="Item.mail_mitten" />
+        <equipment slot="Horse" id="Item.noble_horse_imperial" />
+        <equipment slot="HorseHarness" id="Item.imperial_scale_barding" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="commander_12" name="{=NzbJtdPe}Arentor" age="35" voice="curt" default_group="infantry" culture="Culture.sturgia" occupation="Lord" skill_template="SkillSet.custombattle_commander_12_template_skills" is_hero="true">
+    <face>
+      <!--face_key value="0011ed5b50bc300a20668635577a3595a1777484498a96249ae82fb67baaaff7000436550430b285000000000000000000000000000000000000000000841040" /-->
+      <BodyProperties version="4" age="35" weight="0.5" build="0.5" key="0005C002C00009005D1EECC2AC8071348894884B1977499893998C797E69979501B006140BEB54490000000000000000000000000000000000000000017C8045" />
+    </face>
+    <Traits>
+      <Trait id="HuscarlFightingSkills" value="7" />
+      <Trait id="Commander" value="7" />
+      <Trait id="Politician" value="7" />
+      <Trait id="Manager" value="5" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Calculating" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Item0" id="Item.sturgia_2haxe_2_t5" />
+        <equipment slot="Item1" id="Item.sturgia_noble_sword_1_t5" />
+        <equipment slot="Item2" id="Item.northern_throwing_axe_1_t1" />
+        <equipment slot="Item3" id="Item.northern_throwing_axe_1_t1" />
+        <equipment slot="Head" id="Item.sturgian_helmet_b_close" />
+        <equipment slot="Body" id="Item.decorated_nordic_hauberk" />
+        <equipment slot="Leg" id="Item.plated_strip_boots" />
+        <equipment slot="Cape" id="Item.scarf" />
+        <equipment slot="Gloves" id="Item.plated_strip_gauntlets" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+</NPCCharacters>

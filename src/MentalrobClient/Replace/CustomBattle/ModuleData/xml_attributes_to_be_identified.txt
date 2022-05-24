@@ -1,0 +1,2 @@
+CustomBattle/ModuleData/custombattlecharacters.xml: NPCCharacters.NPCCharacter.name
+CustomBattle/ModuleData/custom_battle_scenes.xml: CustomBattleScenes.Scene.name
