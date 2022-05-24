@@ -1,0 +1,411 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Items>
+  <!-- #Blunt Tournament Weapons -->
+  <CraftedItem id="aserai_sword_1_t2_blunt"
+               name="{=cG1g4T3t}Sparring Flyssa"
+               crafting_template="OneHandedSword"
+               is_merchandise="false"
+               culture="Culture.aserai"
+               has_modifier="false">
+    <Pieces>
+      <Piece id="aserai_blade_4_blunt"
+             Type="Blade"
+             scale_factor="100" />
+      <Piece id="aserai_guard_1"
+             Type="Guard"
+             scale_factor="100" />
+      <Piece id="aserai_grip_1"
+             Type="Handle"
+             scale_factor="100" />
+      <Piece id="aserai_pommel_1"
+             Type="Pommel"
+             scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="aserai_sword_2_t2_blunt"
+               name="{=Kba6rxWK}Sparring Scimitar"
+               crafting_template="OneHandedSword"
+               is_merchandise="false"
+               culture="Culture.aserai"
+               has_modifier="false">
+    <Pieces>
+      <Piece id="aserai_blade_3_blunt"
+             Type="Blade"
+             scale_factor="100" />
+      <Piece id="aserai_guard_6"
+             Type="Guard"
+             scale_factor="100" />
+      <Piece id="aserai_grip_5"
+             Type="Handle"
+             scale_factor="100" />
+      <Piece id="aserai_pommel_1"
+             Type="Pommel"
+             scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="seax_blunt"
+               name="{=YmoddWwb}Sparring Seax"
+               crafting_template="Dagger"
+               is_merchandise="false"
+               culture="Culture.sturgia"
+               has_modifier="false">
+    <Pieces>
+      <Piece id="dagger_blade_3_blunt"
+             Type="Blade"
+             scale_factor="93" />
+      <Piece id="sturgian_dagger_guard_8"
+             Type="Guard"
+             scale_factor="90" />
+      <Piece id="aserai_grip_3"
+             Type="Handle"
+             scale_factor="110" />
+      <Piece id="khuzait_pommel_2"
+             Type="Pommel" />
+    </Pieces>
+    <!-- Length: 61 Weight: 0.52 SwingSpeed: 135 ThrustSpeed: 112 SwingDamage: 4B, 18S ThrustDamage: 11B, 33S -->
+  </CraftedItem>
+  <CraftedItem id="eastern_spear_1_t2_blunt"
+               name="{=BACi0kaM}Sparring Jagged Spear"
+               crafting_template="TwoHandedPolearm"
+               is_merchandise="false"
+               culture="Culture.aserai"
+               has_modifier="false">
+    <Pieces>
+      <Piece id="spear_blade_35_blunt"
+             Type="Blade"
+             scale_factor="95" />
+      <Piece id="spear_handle_3"
+             Type="Handle"
+             scale_factor="95" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="khuzait_polearm_1_t4_blunt"
+               name="{=YQ9ybgmj}Sparring Glaive"
+               crafting_template="TwoHandedPolearm"
+               is_merchandise="false"
+               culture="Culture.khuzait">
+    <Pieces>
+      <Piece id="spear_blade_19_blunt"
+             Type="Blade"
+             scale_factor="100" />
+      <Piece id="default_polearm_guard"
+             Type="Guard"
+             scale_factor="100" />
+      <Piece id="spear_handle_15"
+             Type="Handle"
+             scale_factor="100" />
+      <Piece id="default_polearm_pommel"
+             Type="Pommel"
+             scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="desert_throwing_knife_blunt"
+               name="{=es77bJBa}Sparring Throwing Dagger"
+               crafting_template="ThrowingKnife"
+               is_merchandise="false"
+               culture="Culture.aserai"
+               has_modifier="false">
+    <Pieces>
+      <Piece id="dagger_blade_13_blunt"
+             Type="Blade"
+             scale_factor="110" />
+      <Piece id="aserai_dagger_guard_4"
+             Type="Guard" />
+      <Piece id="aserai_grip_8"
+             Type="Handle" />
+      <Piece id="aserai_pommel_3"
+             Type="Pommel" />
+    </Pieces>
+    <!-- Length: 69 Weight: 0.76 SwingSpeed: 113 ThrustSpeed: 108 -->
+  </CraftedItem>
+  <CraftedItem id="eastern_javelin_1_t2_blunt"
+               name="{=B0E6Zfyk}Sparring Javelin"
+               crafting_template="Javelin"
+               is_merchandise="false"
+               culture="Culture.khuzait"
+               has_modifier="false">
+    <Pieces>
+      <Piece id="spear_blade_35_blunt"
+             Type="Blade"
+             scale_factor="100" />
+      <Piece id="default_polearm_guard"
+             Type="Guard"
+             scale_factor="100" />
+      <Piece id="spear_handle_9"
+             Type="Handle"
+             scale_factor="100" />
+      <Piece id="default_polearm_pommel"
+             Type="Pommel"
+             scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="aserai_axe_2_t2_blunt"
+               name="{=8WlRREMh}Sparring Bamboo Handled Axe"
+               crafting_template="OneHandedAxe"
+               is_merchandise="false"
+               culture="Culture.aserai"
+               has_modifier="false">
+    <Pieces>
+      <Piece id="axe_craft_30_head_blunt"
+             Type="Blade"
+             scale_factor="100" />
+      <Piece id="axe_craft_15_handle"
+             Type="Handle"
+             scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="battania_2haxe_1_t2_blunt"
+               name="{=APO9YcBv}Sparring Two Handed Axe"
+               crafting_template="TwoHandedAxe"
+               is_merchandise="false"
+               culture="Culture.battania"
+               has_modifier="false">
+    <Pieces>
+      <Piece id="axe_craft_14_head_blunt"
+             Type="Blade"
+             scale_factor="100" />
+      <Piece id="axe_craft_30_handle"
+             Type="Handle"
+             scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="battania_2hsword_1_t2_blunt"
+               name="{=lGHrlYqQ}Sparring Twohander"
+               crafting_template="TwoHandedSword"
+               is_merchandise="false"
+               culture="Culture.battania"
+               has_modifier="false">
+    <Pieces>
+      <Piece id="battania_blade_3_iron_blunt"
+             Type="Blade"
+             scale_factor="110" />
+      <Piece id="battania_guard_8"
+             Type="Guard"
+             scale_factor="100" />
+      <Piece id="sturgian_grip_27"
+             Type="Handle"
+             scale_factor="100" />
+      <Piece id="sturgian_pommel_4"
+             Type="Pommel"
+             scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="battania_sword_1_t2_blunt"
+               name="{=D1webCRZ}Sparring Broadsword"
+               crafting_template="OneHandedSword"
+               culture="Culture.battania">
+    <Pieces>
+      <Piece id="battania_blade_3_blunt"
+             Type="Blade"
+             scale_factor="100" />
+      <Piece id="battania_guard_7"
+             Type="Guard"
+             scale_factor="100" />
+      <Piece id="cleaver_grip_3"
+             Type="Handle"
+             scale_factor="100" />
+      <Piece id="battania_pommel_1"
+             Type="Pommel"
+             scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="empire_sword_1_t2_blunt"
+               name="{=2Igdc86g}Sparing Spatha"
+               crafting_template="OneHandedSword"
+               is_merchandise="false"
+               culture="Culture.empire"
+               has_modifier="false">
+    <Pieces>
+      <Piece id="empire_blade_4_blunt"
+             Type="Blade"
+             scale_factor="100" />
+      <Piece id="cleaver_guard_4"
+             Type="Guard"
+             scale_factor="100" />
+      <Piece id="empire_grip_6"
+             Type="Handle"
+             scale_factor="100" />
+      <Piece id="empire_pommel_1"
+             Type="Pommel"
+             scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="western_javelin_1_t2_blunt"
+               name="{=tcN9Vyn7}Sparring Blunt Javelin"
+               is_merchandise="false"
+               crafting_template="Javelin"
+               has_modifier="false">
+    <Pieces>
+      <Piece id="spear_blade_15_blunt"
+             Type="Blade"
+             scale_factor="100" />
+      <Piece id="default_polearm_guard"
+             Type="Guard"
+             scale_factor="100" />
+      <Piece id="spear_handle_2"
+             Type="Handle"
+             scale_factor="100" />
+      <Piece id="default_polearm_pommel"
+             Type="Pommel"
+             scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="empire_lance_1_t3_blunt"
+               name="{=XU0b0yiW}Sparring Lance"
+               crafting_template="TwoHandedPolearm"
+               is_merchandise="false"
+               culture="Culture.empire"
+               has_modifier="false">
+    <Pieces>
+      <Piece id="spear_blade_23_blunt"
+             Type="Blade"
+             scale_factor="100" />
+      <Piece id="spear_handle_13"
+             Type="Handle"
+             scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="khuzait_sword_1_t2_blunt"
+               name="{=LpN4YWb2}Sparring Saber"
+               crafting_template="OneHandedSword"
+               is_merchandise="false"
+               culture="Culture.khuzait"
+               has_modifier="false">
+    <Pieces>
+      <Piece id="khuzait_blade_7_blunt"
+             Type="Blade"
+             scale_factor="100" />
+      <Piece id="khuzait_guard_4"
+             Type="Guard"
+             scale_factor="100" />
+      <Piece id="khuzait_grip_7"
+             Type="Handle"
+             scale_factor="100" />
+      <Piece id="khuzait_pommel_2"
+             Type="Pommel"
+             scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="vlandia_sword_1_t2_blunt"
+               name="{=LLaFEt1m}Sparring Arming Sword"
+               crafting_template="OneHandedSword"
+               is_merchandise="false"
+               culture="Culture.vlandia"
+               has_modifier="false">
+    <Pieces>
+      <Piece id="vlandian_blade_1_blunt"
+             Type="Blade"
+             scale_factor="100" />
+      <Piece id="cleaver_guard_2"
+             Type="Guard"
+             scale_factor="100" />
+      <Piece id="vlandian_grip_2"
+             Type="Handle"
+             scale_factor="100" />
+      <Piece id="vlandian_pommel_1"
+             Type="Pommel"
+             scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="billhook_polearm_t2_blunt"
+               name="{=EbWA5mcO}Sparring Billhook"
+               crafting_template="TwoHandedPolearm"
+               is_merchandise="false"
+               culture="Culture.vlandia"
+               has_modifier="false">
+    <Pieces>
+      <Piece id="spear_blade_33_blunt"
+             Type="Blade"
+             scale_factor="100" />
+      <Piece id="default_polearm_guard"
+             Type="Guard"
+             scale_factor="100" />
+      <Piece id="spear_handle_4"
+             Type="Handle"
+             scale_factor="90" />
+      <Piece id="default_polearm_pommel"
+             Type="Pommel"
+             scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="vlandia_lance_1_t3_blunt"
+               name="{=XU0b0yiW}Sparring Lance"
+               crafting_template="TwoHandedPolearm"
+               is_merchandise="false"
+               culture="Culture.vlandia"
+               has_modifier="false">
+    <Pieces>
+      <Piece id="spear_blade_20_blunt"
+             Type="Blade"
+             scale_factor="100" />
+      <Piece id="spear_handle_23"
+             Type="Handle"
+             scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="sturgia_axe_2_t2_blunt"
+               name="{=5dQdBOTa}Sparring Gallogaich Axe"
+               crafting_template="OneHandedAxe"
+               is_merchandise="false"
+               culture="Culture.sturgia"
+               has_modifier="false">
+    <Pieces>
+      <Piece id="axe_craft_20_head_blunt"
+             Type="Blade"
+             scale_factor="110" />
+      <Piece id="axe_craft_2_handle"
+             Type="Handle"
+             scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="northern_throwing_axe_1_t1_blunt"
+               name="{=M75Ybg6r}Sparring Throwing Axe"
+               crafting_template="ThrowingAxe"
+               is_merchandise="false"
+               culture="Culture.sturgia">
+    <Pieces>
+      <Piece id="axe_craft_13_head_blunt"
+             Type="Blade"
+             scale_factor="100" />
+      <Piece id="axe_craft_11_handle"
+             Type="Handle"
+             scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="northern_spear_1_t2_blunt"
+               name="{=HIjSiX4E}Sparring Spear"
+               crafting_template="TwoHandedPolearm"
+               is_merchandise="false"
+               culture="Culture.sturgia"
+               has_modifier="false">
+    <Pieces>
+      <Piece id="spear_blade_15_blunt"
+             Type="Blade"
+             scale_factor="100" />
+      <Piece id="spear_handle_6"
+             Type="Handle"
+             scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="sturgia_sword_1_t2_blunt"
+               name="{=Rwp23MLA}Sparring Blade"
+               crafting_template="OneHandedSword"
+               is_merchandise="false"
+               culture="Culture.sturgia"
+               has_modifier="false">
+    <Pieces>
+      <Piece id="sturgian_blade_1_blunt"
+             Type="Blade"
+             scale_factor="100" />
+      <Piece id="sturgian_guard_1"
+             Type="Guard"
+             scale_factor="100" />
+      <Piece id="sturgian_grip_13"
+             Type="Handle"
+             scale_factor="100" />
+      <Piece id="sturgian_pommel_7"
+             Type="Pommel"
+             scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+</Items>

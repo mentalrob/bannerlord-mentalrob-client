@@ -1,0 +1,24 @@
+<Brushes>
+  <Brush Name="ServerList.ServerButton" FontColor="#FAF4DEFF">
+    <Layers>
+      <BrushLayer Name="Default" Sprite="BlankWhiteSquare_9" Color="#ffd18050" />
+    </Layers>
+    <Styles>
+      <Style Name="Default" FontColor="#FAF4DEFF" TextOutlineColor="#FAF4DEFF">
+        <BrushLayer Name="Default" ColorFactor="0.5" />
+      </Style>
+      <Style Name="Hovered">
+        <BrushLayer Name="Default" ColorFactor="1.5" />
+      </Style>
+      <Style Name="Pressed">
+        <BrushLayer Name="Default" ColorFactor="0.3" />
+      </Style>
+      <Style Name="Disabled" FontColor="#FAF4DE77" TextOutlineColor="#FAF4DE55">
+        <BrushLayer Name="Default" ColorFactor="0.2" />
+      </Style>
+      <Style Name="Selected" FontColor="#0099FFFF" TextOutlineColor="#FAF4DE55">
+        <BrushLayer Name="Default" ColorFactor="2.0" Color="#0099FFFF" />
+      </Style>
+    </Styles>
+  </Brush>
+</Brushes>

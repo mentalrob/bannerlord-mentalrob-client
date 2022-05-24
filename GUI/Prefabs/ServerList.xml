@@ -1,0 +1,109 @@
+<Prefab>
+  <Constants>
+    <Constant Name="Search.Popup.MarginLeft" Value="221" />
+    <Constant Name="Search.Popup.MarginRight" Value="221" />
+    <Constant Name="Search.Popup.MarginBottom" Value="83" />
+    <Constant Name="Search.Popup.MarginTop" Value="33" />
+    <!--Sycned with other Encyclopedia Pages-->
+
+    <Constant Name="SearchResult.Popup.MarginRight" Additive="-5" Value="!Search.Popup.MarginRight" />
+
+    <Constant Name="Search.TextField.Height" Value="40" />
+    <Constant Name="Search.TextField.MarginTop" Additive="!Search.TextField.Height" Value="!Search.Popup.MarginTop" />
+
+    <Constant Name="Encyclopedia.Frame.Width" BrushLayer="Default" BrushName="Encyclopedia.Frame" BrushValueType="Width" />
+    <Constant Name="Encyclopedia.Frame.Height" BrushLayer="Default" BrushName="Encyclopedia.Frame" BrushValueType="Height" />
+
+    <Constant Name="DoneButton.Margin.Top" Additive="-10" Value="!Encyclopedia.Frame.Height" />
+
+    <Constant Name="Popup.CloseButton.Width" BrushLayer="Default" BrushName="Popup.CloseButton" BrushValueType="Width" />
+    <Constant Name="Popup.CloseButton.Height" BrushLayer="Default" BrushName="Popup.CloseButton" BrushValueType="Height" />
+
+    <Constant Name="InnerPanel.LeftRight.Padding" Value="80" />
+
+    <Constant Name="SpectateButton.Width" BrushLayer="Default" BrushName="WideButton.Flat" BrushValueType="Width" />
+    <Constant Name="SpectateButton.Height" BrushLayer="Default" BrushName="WideButton.Flat" BrushValueType="Height" />
+
+    <Constant Name="RefreshButton.Width" Value="80" />
+    <Constant Name="RefreshButton.Height" Value="80" />
+
+    <Constant Name="CloseButton.Width" Value="80" />
+    <Constant Name="CloseButton.Height" Value="80" />
+
+    <Constant Name="SiegeMachines.HorizontalPadding" Value="3" />
+    <Constant Name="SiegeMachines.VerticalPadding" Value="5" />
+    <Constant Name="SiegeMachines.MarginRight" Value="65" />
+
+  </Constants>
+  <Variables></Variables>
+  <VisualDefinitions>
+    <VisualDefinition Name="LeftMenu" EaseIn="true" TransitionDuration="0.45">
+      <VisualState PositionXOffset="0" State="Default" />
+    </VisualDefinition>
+    <VisualDefinition Name="RightMenu" EaseIn="true" TransitionDuration="0.45">
+      <VisualState PositionXOffset="0" State="Default" />
+    </VisualDefinition>
+    <VisualDefinition Name="CenterMenu" EaseIn="true" TransitionDuration="0.45">
+      <VisualState PositionYOffset="0" State="Default" />
+    </VisualDefinition>
+  </VisualDefinitions>
+  <Window>
+    <Widget WidthSizePolicy="StretchToParent" HeightSizePolicy="StretchToParent">
+      <Children>
+        <Standard.Background />
+        <ListPanel WidthSizePolicy="StretchToParent" HeightSizePolicy="StretchToParent" HorizontalAlignment="Center" LayoutImp.LayoutMethod="HorizontalLeftToRight">
+          <Children>
+            <Widget Id="OptionsContainer" WidthSizePolicy="Fixed" SuggestedWidth="510" ExtendLeft="100" ExtendRight="100" HeightSizePolicy="StretchToParent" MarginTop="160" Sprite="flat_panel_9" AlphaFactor="0.2">
+              <Children>
+                <ListPanel WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" LayoutImp.LayoutMethod="VerticalBottomToTop" MarginTop="50" MarginLeft="50">
+                  <Children>
+                    <ListPanel WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Center" LayoutImp.LayoutMethod="HorizontalLeftToRight">
+                      <Children>
+                        <TextWidget WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Center" VerticalAlignment="Center" Brush="MPTeamSelection.SpectateButton.Text" Text="Your Name" />
+                        <Widget WidthSizePolicy="Fixed" SuggestedWidth="250" HeightSizePolicy="Fixed" SuggestedHeight="40" MarginLeft="40" Sprite="BlankWhiteSquare_9" Color="#382921FF">
+                          <Children>
+                            <EditableTextWidget WidthSizePolicy="StretchToParent" HeightSizePolicy="StretchToParent" MarginTop="10" MarginLeft="10" Brush="MP.ChatLog.Text" Brush.TextVerticalAlignment="Top" Text="x" MaxLength="499" />
+                          </Children>
+                        </Widget>
+                      </Children>
+                    </ListPanel>
+                    <ButtonWidget SuggestedWidth="!SpectateButton.Width" SuggestedHeight="!SpectateButton.Height" MarginTop="50" HorizontalAlignment="Center" VerticalAlignment="Bottom" Brush="ButtonBrush3" Command.Click="Connect">
+                      <Children>
+                        <TextWidget Text="Connect" WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" VerticalAlignment="Center" HorizontalAlignment="Center"></TextWidget>
+                      </Children>
+                    </ButtonWidget>
+
+                  </Children>
+                </ListPanel>
+              </Children>
+            </Widget>
+            <Widget Id="ServerListContainer" WidthSizePolicy="StretchToParent" HeightSizePolicy="StretchToParent" Sprite="flat_panel_9" MarginTop="160" AlphaFactor="0.5">
+              <Children>
+                <ListPanel Id="ServersList" DataSource="{Servers}" WidthSizePolicy="CoverChildren" MarginLeft="55" HeightSizePolicy="CoverChildren" LayoutImp.LayoutMethod="VerticalBottomToTop">
+                  <ItemTemplate>
+                    <ButtonWidget UpdateChildrenStates="true" WidthSizePolicy="StretchToParent" MarginRight="110" SuggestedHeight="100" Brush="ServerList.ServerButton" Command.Click="ExecuteConnect">
+                      <Children>
+                        <ListPanel DoNotAcceptEvents="true" WidthSizePolicy="StretchToParent" HeightSizePolicy="StretchToParent" LayoutImp.LayoutMethod="HorizontalLeftToRight">
+                          <Children>
+                            <TextWidget DoNotAcceptEvents="true" Text="@Name" MarginLeft="40" Brush.FontSize="36" WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" VerticalAlignment="Center" HorizontalAlignment="Left"></TextWidget>
+
+                            <Widget DoNotAcceptEvents="true" MarginLeft="300" VerticalAlignment="Center" Sprite="GameMenu\manage_troops_icon" SuggestedWidth="50" SuggestedHeight="50" />
+                            <TextWidget DoNotAcceptEvents="true" Text="0/200" Brush.FontSize="36" WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" VerticalAlignment="Center" HorizontalAlignment="Left"></TextWidget>
+                            <TextWidget DoNotAcceptEvents="true" MarginLeft="450" Text="95ms" Brush.FontColor="#43a047FF" Brush.FontSize="36" WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" VerticalAlignment="Center" HorizontalAlignment="Right"></TextWidget>
+                          </Children>
+                        </ListPanel>
+                      </Children>
+                    </ButtonWidget>
+                  </ItemTemplate>
+                </ListPanel>
+              </Children>
+            </Widget>
+          </Children>
+        </ListPanel>
+        <Standard.TopPanel Parameter.Title="Server List" />
+        <Standard.DialogCloseButtons Parameter.CancelButtonText="Back" Parameter.DoneButtonText="@RefreshText" Parameter.CancelButtonAction="GoBack" Parameter.DoneButtonAction="ExecuteRefresh" />
+      </Children>
+    </Widget>
+
+  </Window>
+</Prefab>
