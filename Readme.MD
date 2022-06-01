@@ -18,3 +18,5 @@ Note: If you die press y to revive yourself. You can change the ip address of te
 - Open up bannerlord with this mod installed
 - Click "Server List" button on the menu and click refresh
 - Click localhost one and click connect
+
+For any question: https://discord.gg/KfuKbQk tag me and ask it on english chat or dm me directly
